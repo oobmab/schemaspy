@@ -1,0 +1,38 @@
+
+Norg.schemaspy.model.TableIndex#isAscending(Lorg/schemaspy/model/TableColumn;)Z
+__unknown_file ("1*ê
+1d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javaí í(ø
+º
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javaí í(
+%0java.util.List"__id*8*6 
+org.schemaspy.model.TableIndex"
+columnsAscending∂
+≥
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javaí$ í(+
+%1java.util.List"__id*/*- 
+org.schemaspy.model.TableIndex"	
+columnsÉÄ
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javaí$ í(;	
+%2int"+java.util.List#indexOf(Ljava/lang/Object;)I*
+
+%1java.util.List*+
+)
+columnorg.schemaspy.model.TableColumn2indexOf(Ljava/lang/Object;)≥
+∞
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javaí í(<
+%3java.lang.Boolean"
+__arrayGet*
+
+%0java.util.List*
+	
+%2int"n
+d
+X/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/TableIndex.javaí í(=
+"":)
+columnorg.schemaspy.model.TableColumnB" 
+org.schemaspy.model.TableIndex

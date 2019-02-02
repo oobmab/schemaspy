@@ -1,0 +1,161 @@
+
+Borg.schemaspy.util.DurationFormatter#formatMS(J)Ljava/lang/String;
+__unknown_file ("9*°
+2h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (àÖ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (/
+%17java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;**
+(
+stringBuilderjava.lang.StringBuilder*
+""2	append(J)°û
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (=
+%18java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%17java.lang.StringBuilder*
+ ms2append(Ljava/lang/String;)*
+1*∫
+4h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (à
+Ö
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java/ (8
+%13long"__id*
+""àÖ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (9
+%14java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;**
+(
+stringBuilderjava.lang.StringBuilder*
+""2	append(J)°û
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (G
+%15java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;* 
+
+%14java.lang.StringBuilder*
+ s 2append(Ljava/lang/String;)à
+Ö
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java, (5
+%16long"__id*
+""*
+2
+1*É
+5h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (à
+Ö
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (&
+%12long"__id*
+""*	
+2
+4
+1*∂
+6h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (á
+Ñ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java/ (8
+
+%8long"__id*
+""áÑ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (9
+%9java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;**
+(
+stringBuilderjava.lang.StringBuilder*
+""2	append(J)¢ü
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (I
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%9java.lang.StringBuilder*	
+ min 2append(Ljava/lang/String;)à
+Ö
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java, (5
+%11long"__id*
+""*
+5*ˇ
+7h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (á
+Ñ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (&
+
+%7long"__id*
+""*
+5
+6*≥
+8h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (á
+Ñ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java/ (7
+
+%3long"__id*
+""áÑ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (8
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;**
+(
+stringBuilderjava.lang.StringBuilder*
+""2	append(J)†ù
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (H
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*
+
+%4java.lang.StringBuilder*
+ hr 2append(Ljava/lang/String;)á
+Ñ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java, (4
+
+%6long"__id*
+""*
+7*¢
+9h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (3•¢
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java* (7
+%0java.lang.StringBuilder"java.lang.StringBuilder∑
+¥
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java& (9
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilderæ
+ª
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (:(
+stringBuilderjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilderá
+Ñ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (%
+
+%2long"__id*
+""*
+7
+8*√
+1h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (ÙÒ
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java ('
+%19java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;**
+(
+stringBuilderjava.lang.StringBuilder2
+toString()‘—
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (.
+%20java.lang.String")java.lang.String#trim()Ljava/lang/String;*
+
+%19java.lang.String2trim()"Ö
+h
+^/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/DurationFormatter.java (/
+
+%20java.lang.String:
+""B("&
+$org.schemaspy.util.DurationFormatter

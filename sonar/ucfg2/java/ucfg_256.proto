@@ -1,0 +1,34 @@
+
+Forg.schemaspy.model.ConsoleProgressListener#startedGatheringDetails()J
+__unknown_file ("3*•
+2o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/ConsoleProgressListener.java: :(	ù
+ö
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/ConsoleProgressListener.java: :(
+%1java.io.PrintStream"__id*
+""âÜ
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/ConsoleProgressListener.java: :(2
+
+%2void".java.io.PrintStream#print(Ljava/lang/String;)V*
+
+%1java.io.PrintStream*
+Gathering schema details...2print(Ljava/lang/String;)*
+1*º
+3o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/ConsoleProgressListener.java6 6(#Ω
+∫
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/ConsoleProgressListener.java6 6(7
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.System*
+2
+1*Ô
+1o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/ConsoleProgressListener.java= =("y
+o
+e/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/model/ConsoleProgressListener.java= =(
+""B/-
++org.schemaspy.model.ConsoleProgressListener

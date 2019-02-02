@@ -1,0 +1,53 @@
+
+Korg.schemaspy.util.Inflection#replace(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file ("2"1*ð
+2c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java£ £(€
+~
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java£ £(4	
+%0int"__id*
+""*
+1*Ý
+1c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(¶
+³
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(&
+%1java.lang.String"__id*.*,
+org.schemaspy.util.Inflection"	
+pattern•
+’
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(.
+%2java.util.regex.Pattern"Mjava.util.regex.Pattern#compile(Ljava/lang/String;I)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*
+
+%1java.lang.String*
+""»¸
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(<
+%3java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*
+
+%2java.util.regex.Pattern*
+
+wordjava.lang.String2!matcher(Ljava/lang/CharSequence;)º
+·
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥H ¥(S
+%4java.lang.String"__id*2*0
+org.schemaspy.util.Inflection"
+replacement¥¢
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(T
+%5java.lang.String"Hjava.util.regex.Matcher#replaceAll(Ljava/lang/String;)Ljava/lang/String;*
+
+%3java.util.regex.Matcher*
+
+%4java.lang.String2replaceAll(Ljava/lang/String;)"
+c
+W/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/util/Inflection.java¥ ¥(U
+
+%5java.lang.String:
+wordjava.lang.StringB!
+org.schemaspy.util.Inflection

@@ -1,0 +1,23 @@
+
+Korg.schemaspy.view.DotNode#escapeHtml(Ljava/lang/String;)Ljava/lang/String;
+__unknown_file ("1*ô
+1`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaö ö(í
+è
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaö ö(
+%0org.schemaspy.util.Html"__id*
+""ûõ
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaö ö("
+%1java.lang.String"Dorg.schemaspy.util.Html#escape(Ljava/lang/String;)Ljava/lang/String;*
+
+%0org.schemaspy.util.Html*
+
+stringjava.lang.String2escape(Ljava/lang/String;)"|
+`
+T/home/travis/build/schemaspy/schemaspy/src/main/java/org/schemaspy/view/DotNode.javaö ö(#
+
+%1java.lang.String:
+stringjava.lang.StringB"
+org.schemaspy.view.DotNode
